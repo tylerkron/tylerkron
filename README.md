@@ -8,7 +8,7 @@ A passionate leader, engineer, and entrepreneur
 
 * 🌍  I'm based in Aurora, CO
 * 🖥️  See my portfolio at [FIDIL](http://fidil.dev)
-* ✉️  You can contact me at [tyler@fidil.dev](mailto:tyler@fidil.dev)
+* ✉️  You can contact me at [tyler@fidil.dev](mailto:kron@fidil.dev)
 
 <a href="https://www.twitter.com/tylerkron" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tylerkron?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
