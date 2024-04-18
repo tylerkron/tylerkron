@@ -1,16 +1,13 @@
 Hi 👋 My name is Tyler Kron
 ===========================
 
+* 🌍 Based in Colorado
 * Husband & Father
 * Director of Engineering by Day. Entrepreneur by Night. 
-* Cofounder of FIDIL
+* Cofounder of [FIDIL](fidil.dev)
 * Fan of Denver Broncos 🏈 Denver Nuggets 🏀
 
 ---
-
-* 🌍  Based in Colorado
-* 🖥️  See my portfolio at [FIDIL](http://fidil.dev)
-* ✉️  You can contact me at [tyler@fidil.dev](mailto:kron@fidil.dev)
 
 <a href="https://www.twitter.com/tylerkron" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tylerkron?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
