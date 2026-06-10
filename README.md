@@ -6,6 +6,7 @@
 * Husband & Father
 * Director of Engineering by Day. Entrepreneur by Night. 
 * Cofounder of [DAQiFi](https://daqifi.com)
+* Cofounder of [OurTrove](https://ourtrove.app)
 
 ---
 
